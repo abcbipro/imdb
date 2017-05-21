@@ -3,7 +3,7 @@ import httplib, urllib, base64
 from pprint import pprint 
 import time
 
-key = 'f6d45a6aaeac45c2b9a61be284a4fa5d'
+key = 'your_ms_key'
 
 def save_json_file(result, out_file_name):
     try:
