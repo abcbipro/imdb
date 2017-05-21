@@ -4,7 +4,7 @@ from pprint import pprint
 import httplib, urllib, base64
 from search_api_ms import save_json_file
 
-key = 'e3374926d8444f2696a36a6516b376cf'
+key = 'your_ms_key'
 personGroupId = 'celebrity'
 
 def write_log(log_string):
